@@ -1,3 +1,5 @@
+<img width="1910" height="933" alt="Screenshot 2026-04-24 155006" src="https://github.com/user-attachments/assets/8f535a34-88bb-4cec-85ba-b2f81000f020" />
+
 # Gym Trainer Website and Admin Panel System
 
 Full-stack implementation of the PDF specification:
